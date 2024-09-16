@@ -13,5 +13,6 @@ public class TestMean
             listOfNumbers.add(i);
         }
         System.out.println(tester.computeMean(listOfNumbers));
+        //Changes made
     }
 }
