@@ -4,7 +4,7 @@ public class TestMean
 {
         public static void main(String[] args) 
     {
-        Mean tester = new Mean();
+        Mean testerED = new Mean();
 
         ArrayList<Integer> listOfNumbers = new ArrayList<>();
 
@@ -12,7 +12,7 @@ public class TestMean
         {
             listOfNumbers.add(i);
         }
-        System.out.println(tester.computeMean(listOfNumbers));
+        System.out.println(testerED.computeMean(listOfNumbers));
         //Changes made
     }
 }
