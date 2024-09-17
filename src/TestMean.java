@@ -17,5 +17,6 @@ public class TestMean
         
         
         System.out.println("Hello World!"); //By Adam
+        System.out.println("Gian was here"); //Gian
     }
 }
